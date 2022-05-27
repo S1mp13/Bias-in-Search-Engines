@@ -1,0 +1,243 @@
+country,continent,capital,language
+Andorra,Europe,Andorra la Vella,Catalan
+United Arab Emirates,Asia,Abu Dhabi,Arabic
+Afghanistan,Asia,Kabul,Pashto
+Antigua and Barbuda,America,Saint John's,English
+Anguilla,America,The Valley,English
+Albania,Europe,Tirana,Albanian
+Armenia,Asia,Yerevan,Armenian
+Angola,Africa,Luanda,Portuguese
+Argentina,America,Buenos Aires,Spanish
+American Samoa,Oceania,Pago Pago,English
+Austria,Europe,Vienna,German
+Australia,Oceania,Canberra,English
+Aruba,America,Oranjestad,Dutch
+Azerbaijan,Asia,Baku,Azerbaijani
+Bosnia and Herzegovina,Europe,Sarajevo,Bosnian
+Barbados,America,Bridgetown,English
+Bangladesh,Asia,Dhaka,Bengali
+Belgium,Europe,Brussels,Dutch
+Burkina Faso,Africa,Ouagadougou,French
+Bulgaria,Europe,Sofia,Bulgarian
+Bahrain,Asia,Manama,Arabic
+Burundi,Africa,Bujumbura,French
+Benin,Africa,Porto-Novo,French
+Saint Barthélemy,America,Gustavia,French
+Bermuda,America,Hamilton,English
+Brunei,Asia,Bandar Seri Begawan,Malay
+Bolivia,America,Sucre,Spanish
+Bonaire,America,Kralendijk,Dutch
+Brazil,America,Brasília,Portuguese
+Bahamas,America,Nassau,English
+Bhutan,Asia,Thimphu,Dzongkha
+Botswana,Africa,Gaborone,English
+Belarus,Europe,Minsk,Belarusian
+Belize,America,Belmopan,English
+Canada,America,Ottawa,English
+Democratic Republic of the Congo,Africa,Kinshasa,French
+Central African Republic,Africa,Bangui,French
+Republic of the Congo,Africa,Brazzaville,French
+Switzerland,Europe,Bern,German
+Ivory Coast,Africa,Yamoussoukro,French
+Cook Islands,Oceania,Avarua,English
+Chile,America,Santiago,Spanish
+Cameroon,Africa,Yaoundé,English
+China,Asia,Beijing,Chinese
+Colombia,America,Bogotá,Spanish
+Costa Rica,America,San José,Spanish
+Cuba,America,Havana,Spanish
+Cape Verde,Africa,Praia,Portuguese
+Curacao,America,Willemstad,Dutch
+Christmas Island,Asia,Flying Fish Cove,English
+Cyprus,Europe,Nicosia,Greek
+Czech Republic,Europe,Prague,Czech
+Germany,Europe,Berlin,German
+Djibouti,Africa,Djibouti,French
+Denmark,Europe,Copenhagen,Danish
+Dominica,America,Roseau,English
+Dominican Republic,America,Santo Domingo,Spanish
+Algeria,Africa,Algiers,Arabic
+Ecuador,America,Quito,Spanish
+Estonia,Europe,Tallinn,Estonian
+Egypt,Africa,Cairo,Arabic
+Western Sahara,Africa,El Aaiún,Spanish
+Eritrea,Africa,Asmara,Tigrinya
+Spain,Europe,Madrid,Spanish
+Ethiopia,Africa,Addis Ababa,Amharic
+Finland,Europe,Helsinki,Finnish
+Fiji,Oceania,Suva,English
+Falkland Islands,America,Stanley,English
+Micronesia,Oceania,Palikir,English
+Faroe Islands,Europe,Tórshavn,Faroese
+France,Europe,Paris,French
+Gabon,Africa,Libreville,French
+United Kingdom,Europe,London,English
+Grenada,America,St. George's,English
+Georgia,Asia,Tbilisi,Georgian
+French Guiana,America,Cayenne,French
+Guernsey,Europe,St. Peter Port,English
+Ghana,Africa,Accra,English
+Gibraltar,Europe,Gibraltar,English
+Greenland,America,Nuuk,Greenlandic
+Gambia,Africa,Banjul,English
+Guinea,Africa,Conakry,French
+Guadeloupe,America,Basse-Terre,French
+Equatorial Guinea,Africa,Malabo,Spanish
+Greece,Europe,Athens,Greek
+Guatemala,America,Guatemala City,Spanish
+Guam,Oceania,Hagåtña,English
+Guinea-Bissau,Africa,Bissau,Portuguese
+Guyana,America,Georgetown,English
+Hong Kong,Asia,City of Victoria,Chinese
+Honduras,America,Tegucigalpa,Spanish
+Croatia,Europe,Zagreb,Croatian
+Haiti,America,Port-au-Prince,French
+Hungary,Europe,Budapest,Hungarian
+Indonesia,Asia,Jakarta,Indonesian
+Ireland,Europe,Dublin,Irish
+Israel,Asia,Jerusalem,Hebrew
+Isle of Man,Europe,Douglas,English
+India,Asia,New Delhi,Hindi
+British Indian Ocean Territory,Asia,Diego Garcia,English
+Iraq,Asia,Baghdad,Arabic
+Iran,Asia,Tehran,Persian
+Iceland,Europe,Reykjavik,Icelandic
+Italy,Europe,Rome,Italian
+Jersey,Europe,Saint Helier,English
+Jamaica,America,Kingston,English
+Jordan,Asia,Amman,Arabic
+Japan,Asia,Tokyo,Japanese
+Kenya,Africa,Nairobi,English
+Kyrgyzstan,Asia,Bishkek,Kyrgyz
+Cambodia,Asia,Phnom Penh,Cambodian
+Kiribati,Oceania,South Tarawa,English
+Comoros,Africa,Moroni,Arabic
+Saint Kitts and Nevis,America,Basseterre,English
+North Korea,Asia,Pyongyang,Korean
+South Korea,Asia,Seoul,Korean
+Kuwait,Asia,Kuwait City,Arabic
+Cayman Islands,America,George Town,English
+Kazakhstan,Asia,Astana,Kazakh
+Laos,Asia,Vientiane,Laotian
+Lebanon,Asia,Beirut,Arabic
+Saint Lucia,America,Castries,English
+Liechtenstein,Europe,Vaduz,German
+Sri Lanka,Asia,Colombo,Sinhalese
+Liberia,Africa,Monrovia,English
+Lesotho,Africa,Maseru,English
+Lithuania,Europe,Vilnius,Lithuanian
+Luxembourg,Europe,Luxembourg,French
+Latvia,Europe,Riga,Latvian
+Libya,Africa,Tripoli,Arabic
+Morocco,Africa,Rabat,Arabic
+Monaco,Europe,Monaco,French
+Moldova,Europe,Chișinău,Romanian
+Montenegro,Europe,Podgorica,Serbian
+Saint Martin,America,Marigot,English
+Madagascar,Africa,Antananarivo,French
+Marshall Islands,Oceania,Majuro,English
+North Macedonia,Europe,Skopje,Macedonian
+Mali,Africa,Bamako,French
+Myanmar,Asia,Naypyidaw,Burmese
+Mongolia,Asia,Ulan Bator,Mongolian
+Macao,Asia,,Chinese
+Northern Mariana Islands,Oceania,Saipan,English
+Martinique,America,Fort-de-France,French
+Mauritania,Africa,Nouakchott,Arabic
+Montserrat,America,Plymouth,English
+Malta,Europe,Valletta,Maltese
+Mauritius,Africa,Port Louis,English
+Maldives,Asia,Malé,Divehi
+Malawi,Africa,Lilongwe,English
+Mexico,America,Mexico City,Spanish
+Malaysia,Asia,Kuala Lumpur,Malay
+Mozambique,Africa,Maputo,Portuguese
+Namibia,Africa,Windhoek,English
+New Caledonia,Oceania,Nouméa,French
+Niger,Africa,Niamey,French
+Norfolk Island,Oceania,Kingston,English
+Nigeria,Africa,Abuja,English
+Nicaragua,America,Managua,Spanish
+Netherlands,Europe,Amsterdam,Dutch
+Norway,Europe,Oslo,Norwegian
+Nepal,Asia,Kathmandu,Nepali
+Nauru,Oceania,Yaren,English
+Niue,Oceania,Alofi,English
+New Zealand,Oceania,Wellington,English
+Oman,Asia,Muscat,Arabic
+Panama,America,Panama City,Spanish
+Peru,America,Lima,Spanish
+French Polynesia,Oceania,Papeetē,French
+Papua New Guinea,Oceania,Port Moresby,English
+Philippines,Asia,Manila,English
+Pakistan,Asia,Islamabad,English
+Poland,Europe,Warsaw,Polish
+Saint Pierre and Miquelon,America,Saint-Pierre,French
+Pitcairn Islands,Oceania,Adamstown,English
+Puerto Rico,America,San Juan,Spanish
+Palestine,Asia,Ramallah,Arabic
+Portugal,Europe,Lisbon,Portuguese
+Palau,Oceania,Ngerulmud,English
+Paraguay,America,Asunción,Spanish
+Qatar,Asia,Doha,Arabic
+Réunion,Africa,Saint-Denis,French
+Romania,Europe,Bucharest,Romanian
+Serbia,Europe,Belgrade,Serbian
+Russia,Europe,Moscow,Russian
+Rwanda,Africa,Kigali,Rwandi
+Saudi Arabia,Asia,Riyadh,Arabic
+Solomon Islands,Oceania,Honiara,English
+Seychelles,Africa,Victoria,French
+Sudan,Africa,Khartoum,Arabic
+Sweden,Europe,Stockholm,Swedish
+Singapore,Asia,Singapore,English
+Saint Helena,Africa,Jamestown,English
+Slovenia,Europe,Ljubljana,Slovenian
+Svalbard and Jan Mayen,Europe,Longyearbyen,Norwegian
+Slovakia,Europe,Bratislava,Slovak
+Sierra Leone,Africa,Freetown,English
+San Marino,Europe,City of San Marino,Italian
+Senegal,Africa,Dakar,French
+Somalia,Africa,Mogadishu,Somalia
+Suriname,America,Paramaribo,Dutch
+South Sudan,Africa,Juba,English
+São Tomé and Príncipe,Africa,São Tomé,Portuguese
+El Salvador,America,San Salvador,Spanish
+Sint Maarten,America,Philipsburg,Dutch
+Syria,Asia,Damascus,Arabic
+Swaziland,Africa,Lobamba,English
+Turks and Caicos Islands,America,Cockburn Town,English
+Chad,Africa,N'Djamena,French
+Togo,Africa,Lomé,French
+Thailand,Asia,Bangkok,Thai
+Tajikistan,Asia,Dushanbe,Tajik
+Tokelau,Oceania,Fakaofo,English
+East Timor,Oceania,Dili,Portuguese
+Turkmenistan,Asia,Ashgabat,Turkmen
+Tunisia,Africa,Tunis,Arabic
+Tonga,Oceania,Nuku'alofa,English
+Turkey,Asia,Ankara,Turkish
+Trinidad and Tobago,America,Port of Spain,English
+Tuvalu,Oceania,Funafuti,English
+Taiwan,Asia,Taipei,Chinese
+Tanzania,Africa,Dodoma,Swahili
+Ukraine,Europe,Kyiv,Ukrainian
+Uganda,Africa,Kampala,English
+U.S. Minor Outlying Islands,Oceania,,English
+United States,America,Washington D.C.,English
+Uruguay,America,Montevideo,Spanish
+Uzbekistan,Asia,Tashkent,Uzbek
+Vatican City,Europe,Vatican City,Italian
+Saint Vincent and the Grenadines,America,Kingstown,English
+Venezuela,America,Caracas,Spanish
+British Virgin Islands,America,Road Town,English
+Vietnam,Asia,Hanoi,Vietnamese
+Vanuatu,Oceania,Port Vila,Bislama
+Wallis and Futuna,Oceania,Mata-Utu,French
+Samoa,Oceania,Apia,Samoan
+Kosovo,Europe,Pristina,Albanian
+Yemen,Asia,Sana'a,Arabic
+Mayotte,Africa,Mamoudzou,French
+South Africa,Africa,Pretoria,Afrikaans
+Zambia,Africa,Lusaka,English
+Zimbabwe,Africa,Harare,English
